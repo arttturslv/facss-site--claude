@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp:*)",
+      "Read(/C:\\Users\\Artur Marcos\\Desktop\\Claude\\03_09\\.claude/**)",
+      "Read(/C:\\Users\\Artur Marcos\\Desktop\\Claude\\03_09\\facss-site/**)",
+      "Read(/C:\\Users\\Artur Marcos\\Desktop\\Claude\\03_09\\facss-site/**)",
+      "mcp__figma-dev-mode-mcp-server__get_code",
+      "Bash(npm run dev:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
