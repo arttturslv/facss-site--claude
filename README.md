@@ -1,6 +1,7 @@
 # FACSS Website
 
-A modern, responsive React website for FACSS (Fundação para o Apoio e Capacitação de Startups e Sociedades) built with React 19, TypeScript, and Tailwind CSS.
+A modern, responsive React website for FACSS built with React 19, TypeScript, and Tailwind CSS.
+<img width="1920" height="4247" alt="screencapture-localhost-5173-2025-09-09-13_33_25" src="https://github.com/user-attachments/assets/54cc414b-a922-4553-8f29-4d5fdd49334c" />
 
 ## 🚀 Features
 
@@ -18,7 +19,6 @@ A modern, responsive React website for FACSS (Fundação para o Apoio e Capacita
 - **TypeScript** - Static type checking
 - **Vite** - Fast build tool with HMR
 - **Tailwind CSS** - Utility-first CSS framework
-- **shadcn/ui** - Component library
 - **Lucide React** - Beautiful icons
 - **ESLint** - Code linting and formatting
 
